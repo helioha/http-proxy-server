@@ -2,6 +2,10 @@
 
 Quickly spin up a HTTP proxy server in São Paulo using Vagrant and EC2.
 
+## Prerequisites
+ - AWS account
+ - Install Vagrant and the aws provider plugin (https://github.com/mitchellh/vagrant-aws)
+
 ## Instructions
  - Create a security group in the São Paulo region named "HTTPProxyServer".
  - Configure "HTTPProxyServer" to allow SSH on port 22 and TCP on port 8888.
