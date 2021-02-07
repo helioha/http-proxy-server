@@ -1,4 +1,4 @@
-# Vagrant + AWS EC2 HTTP Proxy Server
+# Create an HTTP Proxy Server with AWS EC2 + Vagrant
 
 Quickly spin up a HTTP proxy server in São Paulo using Vagrant and EC2.
 
